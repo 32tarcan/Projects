@@ -70,3 +70,8 @@ h5.name {
     justify-content: space-between;
     align-items: flex-end;
 }
+
+button {
+padding: 16px;
+margin: 20px;
+}
